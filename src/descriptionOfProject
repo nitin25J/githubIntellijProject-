@@ -1,0 +1,49 @@
+Number Guessing Game
+Concepts Used:
+- Random number generation
+- User input handling (Scanner)
+- Loops (do-while)
+- Conditional statements
+- Basic problem-solving logic
+Knowledge Required:
+- Basic Java syntax
+- Control flow (if-else, loops)
+- Working with user input
+Tools/Technologies:
+- Java
+- IntelliJ / Eclipse / VS Code
+
+Rock Paper Scissors
+Concepts Used:
+- Arrays
+- Random selection
+- String handling
+- Conditional logic
+- Looping for multiple rounds
+- Input validation
+Knowledge Required:
+- Java basics
+- Strings and arrays
+- Game logic implementation
+Tools/Technologies:
+- Java
+- Any Java IDE
+
+
+✅ Login System (GUI)
+Concepts Used:
+- Java Swing (GUI development)
+- Event handling (ActionListener)
+- HashMap (data storage)
+- OOP concepts (classes, objects)
+- User authentication logic
+Knowledge Required:
+- Core Java (OOP)
+- Basic GUI concepts
+- Event-driven programming
+Tools/Technologies:
+- Java
+- Swing (JFrame, JButton, JTextField)
+- IDE (IntelliJ / Eclipse / VS Code)
+
+
